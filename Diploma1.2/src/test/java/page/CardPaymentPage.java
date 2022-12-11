@@ -1,4 +1,4 @@
-package ru.netology.web.page;
+package page;
 
 public class CardPaymentPage extends AbstractPaymentPage {
     public CardPaymentPage(){

@@ -1,2 +1,9 @@
-package page;public class PaymentOnCreditPage {
+package page;
+
+
+
+public class PaymentOnCreditPage extends AbstractPaymentPage {
+    public PaymentOnCreditPage(){
+        super("Кредит по данным карты");
+    }
 }
